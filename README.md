@@ -1,6 +1,3 @@
-# hello-world
-My first GitHub Repository!
-
 # My first Project
 ## **Course**: Geography 13
 ## **Name**: Barush Martinez  
